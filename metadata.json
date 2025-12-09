@@ -1,0 +1,8 @@
+{
+  "name": "PastelPrep AI Interviewer",
+  "description": "A calm, intelligent AI job interview simulator with real-time body language coaching and detailed post-session analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
